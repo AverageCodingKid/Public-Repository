@@ -12,8 +12,8 @@ if guess in passwords:
     print("Access Granted ✅")
     
     
-    #The first record
-    shearecord = ["Shea Lewis | Height: 4.10 Current net worth: $-200"]
+    #The records
+    recordnames = ["Shea Lewis"]
     
     
     
@@ -25,8 +25,8 @@ if guess in passwords:
     
     
     #Find
-    if "Name: Shea Lewis" in shearecord:
-        print(shearecord)
+    if "Shea Lewis" in recordnames:
+        print("Shea Lewis | Height: 4.10 Current net worth: $-200")
     
     #Name not found
     else:
