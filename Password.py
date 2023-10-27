@@ -13,7 +13,7 @@ if guess in passwords:
     
     
     #The records
-    recordnames = ["Shea Lewis"]
+    recordnames = ["Joe Mama"]
     
     
     
@@ -25,8 +25,8 @@ if guess in passwords:
     
     
     #Find
-    if "Shea Lewis" in recordnames:
-        print("Shea Lewis | Height: 4.10 Current net worth: $-200")
+    if "Joe Mama" in recordnames:
+        print("Joe Mama | Height: 4.10 Current net worth: -$200")
     
     #Name not found
     else:
