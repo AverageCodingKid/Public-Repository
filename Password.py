@@ -36,7 +36,7 @@ if guess in passwords:
 #Stay clear from this ☠
 else:
     print("Access Denied ☠: Pc Lock Enabled 🔒")
-    os.system("shutdown -r -t 00")
+    print("os.system(shutdown-r -t 0)")
 
 
 #Thank you if you have made it this far 🏆
